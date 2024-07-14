@@ -1,2 +1,2 @@
 # MNIST
-digits identifier using pyjama
+digits identifier using pygame
